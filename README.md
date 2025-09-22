@@ -1,2 +1,1 @@
-# modal
-Created with CodeSandbox
+This mini project is a reusable React modal dialog component that displays centered content above a semi-transparent overlay using React portals. It features a customizable title, any body content, and a close button, with interaction disabled for underlying UI while open. This component enhances user focus and experience for modal dialogs in React applications.
